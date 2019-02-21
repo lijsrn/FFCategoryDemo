@@ -1,0 +1,6 @@
+framework module FFCategoryDemo {
+  umbrella header "FFCategoryDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
